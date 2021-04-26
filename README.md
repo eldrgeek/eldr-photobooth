@@ -1,2 +1,2 @@
-# eldr-photobooth
+# eldr-chakra-ui-template
 Created with CodeSandbox
